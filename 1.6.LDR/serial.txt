@@ -1,0 +1,12 @@
+--------------------------------
+RAW ADC: 2048
+Calculated voltage: 1.550 V
+Measured voltage: 1.523 V
+Measured millivolts: 1523 mV
+Error: 1.77 %
+--------------------------------
+RAW ADC: 2055
+Calculated voltage: 1.556 V
+Measured voltage: 1.531 V
+Measured millivolts: 1531 mV
+Error: 1.63 %
