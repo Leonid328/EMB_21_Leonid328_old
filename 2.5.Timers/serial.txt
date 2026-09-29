@@ -1,0 +1,4 @@
+fan on
+fan off
+fan on
+fan off
