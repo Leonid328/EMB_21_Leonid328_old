@@ -1,0 +1,15 @@
+# 10 presses
+# n  analyzer  esp32  bounce_ms
+1  3  3  6
+2  4  4  8
+3  2  2  5
+4  5  5  11
+5  3  3  7
+6  4  4  9
+7  2  2  4
+8  5  5  12
+9  3  3  6
+10 4  4  10
+
+avg bounce = 7.8 ms
+debounce ~ 20 ms
