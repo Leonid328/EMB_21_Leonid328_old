@@ -14,4 +14,3 @@
 2.7.Traffic_Light - світлофор по ПДР
 2.8.STM32 - кнопка і світлодіод на bluepill
 2.9.STM32_VSCode - blink виніс у setup/loop в app.c
-3.1.Twilight_Switch - сутінковий перемикач, ADC + реле
